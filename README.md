@@ -1,6 +1,6 @@
+![image_6483441](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/471475d8-5536-4005-8ea1-2bb72693177a)
 
 
-![Aesthetic wallpaper laptop (1)](https://github.com/LeviAcker25/LeviAcker25/assets/137004973/47869807-2118-45b2-9cd9-f25b3d603354)
 
 # About Me
 Hey, I'm Kabir! Studying Bachelors of Software Development ; Seneca College.I'm just a college student diving into the world of coding and tech. It's like exploring a new campus—so many things to discover! Armed with my keyboard and lots of coffee, I'm on a mission to crush bugs and bring my code to life. And guess what? There's always some fun and jokes along the way. So, join me on this wild ride of coding adventures. Let's learn, laugh, and level up our skills together🎓💻✨
