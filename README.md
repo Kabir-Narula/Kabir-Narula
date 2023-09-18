@@ -1,4 +1,5 @@
-![image_6483441](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/471475d8-5536-4005-8ea1-2bb72693177a)
+
+![download](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/53186216-0fb6-4e6d-926b-936778d9c629)
 
 
 
