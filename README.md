@@ -32,7 +32,6 @@ Hey, I'm Kabir! Studying Bachelors of Software Development ; Seneca College.I'm 
 
 # Interests
 - 🌱 Mainly interested in Front-end Development.
-- 👨‍💻 Working on Music Page https://leviacker25.github.io/WEB222-Vintage/
 - 🖥️ Worked on: C, C++, Javascript, MySQl, Unix/Linux, Html, PH
 - 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio....
                                                                                                                 
