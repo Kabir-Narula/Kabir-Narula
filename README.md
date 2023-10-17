@@ -1,16 +1,8 @@
 
 
-
-
-# About Me
-LOOKING FOR MISS CHAEWON.......
-                                                              
-
-
 # Interests
-- 🌱 Mainly interested in Front-end Development.
-- 🖥️ Worked on: C, C++, Javascript, MySQl, Unix/Linux, Html, PH
-- 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio....
+
+One and only Miss Chaewon.....
                                                                                                                 
 
 
