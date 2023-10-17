@@ -31,6 +31,8 @@
 
 # About Me
 Hello there, I'm Kabir! I'm currently pursuing a Bachelor's degree in Software Development at Seneca College. As a third-semester student, I'm deeply immersed in the realm of coding and technology. Fueled by my passion for innovation, I'm armed with my keyboard and plenty of coffee, working hard to create something meaningful. I'm also eagerly anticipating the chance to meet Kim Chaewon; she's become my obsession in the world of dreams. 🥺
+                                                                       ![Alt Text](https://media3.giphy.com/media/JWqDd0mP1YrDGjlD3V/giphy.gif?cid=ecf05e47k8flk7iy8f6uyjfxq4ct2bh0hnr98fl1hwf8e8lz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 # Interests
 - 🌱 Mainly interested in Front-end Development.
