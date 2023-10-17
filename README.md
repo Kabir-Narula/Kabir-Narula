@@ -31,7 +31,7 @@
 
 # About Me
 LOOKING FOR MISS CHAEWON.......
-                                                                       ![Alt Text](https://media3.giphy.com/media/JWqDd0mP1YrDGjlD3V/giphy.gifcid=ecf05e47k8flk7iy8f6uyjfxq4ct2bh0hnr98fl1hwf8e8lz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+                                                                    [AltText(https://media3.giphy.com/media/JWqDd0mP1YrDGjlD3V/giphy.gifcid=ecf05e47k8flk7iy8f6uyjfxq4ct2bh0hnr98fl1hwf8e8lz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 # Interests
