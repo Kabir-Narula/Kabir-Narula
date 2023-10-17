@@ -1,6 +1,24 @@
 
 
 
+
+# About Me
+LOOKING FOR MISS CHAEWON.......
+                                                              
+
+
+# Interests
+- 🌱 Mainly interested in Front-end Development.
+- 🖥️ Worked on: C, C++, Javascript, MySQl, Unix/Linux, Html, PH
+- 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio....
+                                                                                                                
+
+
+   
+#  Tech Stack:
+
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
@@ -25,25 +43,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 <br><br>    
-
-
-
-
-# About Me
-LOOKING FOR MISS CHAEWON.......
-                                                                    [AltText(https://media3.giphy.com/media/JWqDd0mP1YrDGjlD3V/giphy.gifcid=ecf05e47k8flk7iy8f6uyjfxq4ct2bh0hnr98fl1hwf8e8lz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-
-# Interests
-- 🌱 Mainly interested in Front-end Development.
-- 🖥️ Worked on: C, C++, Javascript, MySQl, Unix/Linux, Html, PH
-- 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio....
-                                                                                                                
-
-
-   
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
 
