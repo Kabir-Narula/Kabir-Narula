@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:197%;position:relative;"><iframe src="https://giphy.com/embed/3v6nk9cmtlT8md38Wx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kpop-k-pop-le-sserafim-3v6nk9cmtlT8md38Wx">via GIPHY</a></p>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
