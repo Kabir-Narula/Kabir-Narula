@@ -2,7 +2,8 @@
 
 # Interests
 
-One and only Miss Chaewon.....
+![Kim Chaewon](https://media3.giphy.com/media/JWqDd0mP1YrDGjlD3V/200w.webp?cid=ecf05e47aaqeu0f81hogi5x3yrxhid34jckuoyq67xk0lp4p&ep=v1_gifs_search&rid=200w.webp&ct=g)
+
                                                                                                                 
 
 
