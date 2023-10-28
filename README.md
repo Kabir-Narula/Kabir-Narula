@@ -5,7 +5,7 @@ I'm a passionate software developer student. I'm on a journey to explore the eve
 
 - 📚 I'm currently pursuing my Bachelor's degree in Software Development at Seneca college.
 - 🚀 I'm enthusiastic about web development, mobile app development, and machine learning.
-- 🌐 I enjoy building web applications using technologies like HTML, CSS, and JavaScript, and I'm familiar with frameworks like React and Node.js.
+- 🌐 I enjoy building web applications using technologies like HTML, CSS, and JavaScript.
 - 🧠 I'm always eager to learn and keep up with the latest trends in the tech industry.
 
 ### What I'm Currently Working On
