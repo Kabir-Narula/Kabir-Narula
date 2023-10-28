@@ -11,10 +11,7 @@ I'm a passionate software developer student. I'm on a journey to explore the eve
 ### What I'm Currently Working On
 
 - 🌱 I'm honing my skills in data structures and algorithms to become a more efficient problem solver.
-- 🌐 I'm working on [a personal project/a class project/an open-source project].
-
-
-![Kim Chaewon](https://media3.giphy.com/media/JWqDd0mP1YrDGjlD3V/200w.webp?cid=ecf05e47aaqeu0f81hogi5x3yrxhid34jckuoyq67xk0lp4p&ep=v1_gifs_search&rid=200w.webp&ct=g)
+- 🌐 I'm working on sleepy-hare-suspenders.cyclic.app.
 
                                                                                                                 
 
