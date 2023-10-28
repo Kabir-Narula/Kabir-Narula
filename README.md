@@ -1,6 +1,22 @@
 
 
 # Interests
+## 👋 Hi there, I'm [Your Name]!
+
+I'm a passionate software developer and a dedicated computer science student. I'm on a journey to explore the ever-evolving world of technology and create innovative solutions to real-world problems. Here's a bit about me:
+
+- 📚 I'm currently pursuing my [Bachelor's/Master's] degree in Computer Science at [Your University Name].
+- 💻 I love coding and am proficient in languages like Python, Java, C++, and JavaScript.
+- 🚀 I'm enthusiastic about web development, mobile app development, and machine learning.
+- 🌐 I enjoy building web applications using technologies like HTML, CSS, and JavaScript, and I'm familiar with frameworks like React and Node.js.
+- 📱 I've dabbled in mobile app development with Android and am excited to explore iOS development.
+- 🧠 I'm always eager to learn and keep up with the latest trends in the tech industry.
+
+### What I'm Currently Working On
+
+- 🌱 I'm honing my skills in data structures and algorithms to become a more efficient problem solver.
+- 🌐 I'm working on [a personal project/a class project/an open-source project], where I'm [brief description of your project and your role].
+- 📚 I'm studying [mention a technology, language, or concept you're currently learning].
 
 ![Kim Chaewon](https://media3.giphy.com/media/JWqDd0mP1YrDGjlD3V/200w.webp?cid=ecf05e47aaqeu0f81hogi5x3yrxhid34jckuoyq67xk0lp4p&ep=v1_gifs_search&rid=200w.webp&ct=g)
 
