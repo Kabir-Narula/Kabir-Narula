@@ -1,7 +1,7 @@
 
 ## 👋 Hi there, I'm Kabir Narula!
 
-I'm a passionate software developer student. I'm on a journey to explore the ever-evolving world of technology and create innovative solutions to real-world problems. Here's a bit about me:
+I'm a 2nd year student in Bachelors of software developement in Seneca College. I'm on a journey to explore the ever-evolving world of technology and create innovative solutions to real-world problems. Here's a bit about me:
 
 - 📚 I'm currently pursuing my Bachelor's degree in Software Development at Seneca college.
 - 🚀 I'm enthusiastic about web development, mobile app development, and machine learning.
