@@ -2,7 +2,15 @@
 
 ![𝐌𝐲 𝐂𝐨𝐮𝐫𝐬𝐞 ⁺¹⁸, Jujutsu Kaisen](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/78946531-a756-4088-99f6-23fc5bea0417)
 
+
+
+
+
+
 ## 👋 Hi there, I'm Kabir Narula!
+
+![Gojo Satoru Jujutsu Kaisen GIF - Gojo Satoru Jujutsu Kaisen - Discover   Share GIFs](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/d56ddee1-d82d-4c0f-a376-26dbe15e2730)
+
 
  I'm on a journey to explore the ever-evolving world of technology and create innovative solutions to real-world problems. Here's a bit about me:
 
