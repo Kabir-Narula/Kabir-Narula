@@ -1,4 +1,7 @@
 
+
+![download (11)](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/4bffeab6-211c-4ef0-96f8-da7bb7ecb0fd)
+
 ## 👋 Hi there, I'm Kabir Narula!
 
  I'm on a journey to explore the ever-evolving world of technology and create innovative solutions to real-world problems. Here's a bit about me:
