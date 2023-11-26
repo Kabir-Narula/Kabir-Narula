@@ -7,28 +7,7 @@
 
 
 
-## 👋 Hi there, I'm Kabir Narula!
 
-![Gojo Satoru Jujutsu Kaisen GIF - Gojo Satoru Jujutsu Kaisen - Discover   Share GIFs](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/d56ddee1-d82d-4c0f-a376-26dbe15e2730)
-
-
- I'm on a journey to explore the ever-evolving world of technology and create innovative solutions to real-world problems. Here's a bit about me:
-
-- 📚 I'm currently pursuing my Bachelor's degree in Software Development at Seneca college.
-- 🚀 I'm enthusiastic about web development, mobile app development, and machine learning.
-- 🌐 I enjoy building web applications using technologies like HTML, CSS, and JavaScript.
-- 🧠 I'm always eager to learn and keep up with the latest trends in the tech industry.
-
-### What I'm Currently Working On
-
-- 🌱 I'm honing my skills in data structures and algorithms to become a more efficient problem solver.
-- 🌐 I'm working on https://sleepy-hare-suspenders.cyclic.app/.
-
-                                                                                                                
-
-
-   
-#  Tech Stack:
 
 
 
