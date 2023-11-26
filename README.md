@@ -2,9 +2,9 @@
 
  ![𝐌𝐲 𝐂𝐨𝐮𝐫𝐬𝐞 ⁺¹⁸, Jujutsu Kaisen](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/78946531-a756-4088-99f6-23fc5bea0417)
 
-https://media.tenor.com/EVzBTmpbbNIAAAAC/le-sserafim-le.gif
 
 
+![le-sserafim-le](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/5e59dbd0-51a3-490b-94bb-e22ef38c37d5)
 
 
 
