@@ -3,7 +3,8 @@
 
 
 
-![le-sserafim-le](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/5e59dbd0-51a3-490b-94bb-e22ef38c37d5)
+![le-sserafim-le](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/5e59dbd0-51a3-490b-94bb-e22ef38c37d5 | width=500)
+
 
 
 
