@@ -1,1 +1,1 @@
-[![download (14)](https://github.com/Kim-Chaewonn/Kim-Chaewonn/assets/137004973/edbf3c16-73c7-4f21-8340-2ecf3f91cb82)](https://github.com/Kim-Chaewonn/Kim-Chaewonn/assets/137004973/edbf3c16-73c7-4f21-8340-2ecf3f91cb82)
+![download (15)](https://github.com/Kim-Chaewonn/Kim-Chaewonn/assets/137004973/01ff60cc-c4d2-4575-8ccd-21a9bf7fa0b3)
