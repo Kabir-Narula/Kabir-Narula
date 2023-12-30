@@ -16,6 +16,6 @@ In addition to my practical experience, I'm pursuing a Software Development degr
 
 For a speedy response or just to connect, feel free to DM me on Instagram: [@_kabirnarula](https://www.instagram.com/_kabirnarula/).
 
-For any other inquiries or to learn more about me, you can reach out to me on [LinkedIn](www.linkedin.com/in/kabir-narula-19b129260)
+For any other inquiries or to learn more about me, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/kabir-narula-19b129260).
 
-I'm looking forward to connecting and exploring the endless possibilities of the tech world with you!
+
