@@ -1,7 +1,7 @@
 # Hey, I'm Kabir 👋
 I'm a 18 year old Software Developer & games developer
 
-##⚡️ Current
+## ⚡️ Current
 Currently working on learning Next.js
 
 ## 💎 Experience
