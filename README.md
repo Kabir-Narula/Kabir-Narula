@@ -1,6 +1,6 @@
 # Hey, I'm Kabir! 👋
 
-I'm an 18-year-old Software Developer and games developer with a passion for crafting digital experiences and diving into the world of code. Here's a little about me:
+I'm an 19-year-old Software Developer and games developer with a passion for crafting digital experiences and diving into the world of code. Here's a little about me:
 
 ## ⚡️ Current
 
