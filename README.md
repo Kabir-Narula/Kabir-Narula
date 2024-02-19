@@ -14,7 +14,7 @@ In addition to my practical experience, I'm pursuing a Software Development degr
 
 ## 📫 Contact
 
-Contact me here: https://portfolio-comic-41u762yn1-leviacker25.vercel.app
+Contact me here: https://portfolio-comic.vercel.app
 
 For a speedy response or just to connect, feel free to DM me on Instagram: [@_kabirnarula](https://www.instagram.com/_kabirnarula/).
 
