@@ -1,6 +1,6 @@
-# Hey, I'm Kabir! 👋  Contact me here: https://portfolio-comic-41u762yn1-leviacker25.vercel.app
+# Hey, I'm Kabir! 👋  
 
-I'm an 19-year-old Software Developer and games developer with a passion for crafting digital experiences and diving into the world of code. Here's a little about me:
+I'm an 19-year-old Software Developer and games developer with a passion for crafting digital experiences and diving into the world of code. Here's a little about me: 
 
 ## ⚡️ Current
 
@@ -13,6 +13,8 @@ I like to consider myself a versatile developer. While I've spent most of my tim
 In addition to my practical experience, I'm pursuing a Software Development degree at Seneca College. Here, I'm delving deep into low-level programming using **C++** and specializing in advanced web design using industry-standard frameworks such as **Angular** and **Express.js**.
 
 ## 📫 Contact
+
+Contact me here: https://portfolio-comic-41u762yn1-leviacker25.vercel.app
 
 For a speedy response or just to connect, feel free to DM me on Instagram: [@_kabirnarula](https://www.instagram.com/_kabirnarula/).
 
