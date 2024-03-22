@@ -1,7 +1,7 @@
 
 ![Screenshot 2024-03-22 133348](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/7023df73-4f53-4206-ad51-178437c6e75f)
 
-# Hey, I'm Kabir! 👋  
+  
 
 I'm an 19-year-old Software Developer and games developer with a passion for crafting digital experiences and diving into the world of code. Here's a little about me: 
 
