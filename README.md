@@ -1,5 +1,5 @@
 
-![Screenshot 2024-03-22 133348](https://github.com/Kabir-Narula/Kabir-Narula/assets/137004973/7023df73-4f53-4206-ad51-178437c6e75f)
+
 
 
 ## 💎 Experience
