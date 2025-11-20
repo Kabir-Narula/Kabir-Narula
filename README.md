@@ -1,9 +1,3 @@
-A under-graduate student currently studying in 6th Semester (Winter 2025) at Seneca Polytechnic, also actively looking for Summer 2025 Internship...
-
-Intrested about science and concepts related to space and existence .
-
-Athelete - Soccer since 2014...
-
-
-
-
+ Front-end focused Software Development student (Seneca, grad Aug 2026) building accessible, responsive SPAs with
+ React/Vue, HTML5/CSS3, and modern JavaScript. Comfortable translating business requirements into component-driven
+ UI, integrating RESTful APIs, and writing unit tests for cross-browser consistency
