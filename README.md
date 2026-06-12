@@ -43,46 +43,7 @@ I build **accessible, responsive web apps** — component-driven UI, REST APIs, 
 
 ---
 
-### Resume
 
-<div align="center">
-
-**[Download PDF](https://github.com/Kabir-Narula/Kabir-Narula/raw/main/Kabir_Narula_Resume.pdf)**
-
-</div>
-
-<details>
-<summary><b>Experience & education</b> — click to expand</summary>
-
-<br />
-
-**Education**
-
-| | |
-|---|---|
-| **Seneca Polytechnic** | Honours B.Tech, Software Development |
-| | Toronto · Expected **Aug 2026** |
-
-<br />
-
-**Experience**
-
-| Role | Company | When |
-|------|---------|------|
-| Systems & Data Analyst (WIL) | Seneca INNWIL VYBE Platform | Feb – Apr 2026 |
-| Data & Systems Intern | Project Human City | May – Jul 2025 |
-| Technical Consultant | Three Of Cups | Feb – Apr 2024 |
-
-<br />
-
-**Selected projects**
-
-| Project | Focus |
-|---------|--------|
-| [BetterMind](https://github.com/Kabir-Narula/BetterMind) · [Live](https://mindful-ai-dps.vercel.app/) | PostgreSQL data architecture, API compliance, privacy controls |
-| [Vertex_flow](https://github.com/Kabir-Narula/Vertex_flow) | Multi-tenant transactions, data ingestion, SQL dashboards |
-
-<br />
 
 **Skills**
 
