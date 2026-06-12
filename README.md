@@ -45,11 +45,7 @@ I build **accessible, responsive web apps** — component-driven UI, REST APIs, 
 
 
 
-**Skills**
 
-`Data Analysis` · `SQL (PostgreSQL)` · `Python` · `TypeScript` · `React / Next.js` · `Compliance & Documentation` · `Stakeholder Communication`
-
-</details>
 
 ---
 
