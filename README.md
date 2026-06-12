@@ -37,7 +37,7 @@ I build **accessible, responsive web apps** — component-driven UI, REST APIs, 
 
 <br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?user=Kabir-Narula&theme=react-dark&hide_border=true&area=true&point=58A6FF&line=58A6FF&color=58A6FF" alt="Contribution graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir-Narula&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top languages" />
 
 </div>
 
