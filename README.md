@@ -6,7 +6,7 @@
 
 **Toronto** · Honours B.Tech Software Development · **grad Aug 2026**
 
-[LinkedIn](https://www.linkedin.com/in/kabir-narula-19b129260/) · [Email](mailto:knarula9@myseneca.ca)
+[LinkedIn](https://www.linkedin.com/in/kabir-narula-19b129260/) · [Email](mailto:Kabirnar10@gmail.com) · [**Resume**](https://github.com/Kabir-Narula/Kabir-Narula/raw/main/Kabir_Narula_Resume.pdf)
 
 </div>
 
@@ -43,18 +43,57 @@ I build **accessible, responsive web apps** — component-driven UI, REST APIs, 
 
 ---
 
-### Also on GitHub
+### Resume
 
-| Repo | Description |
-|------|-------------|
-| [**Data_Structres-Algorithms**](https://github.com/Kabir-Narula/Data_Structres-Algorithms) | DSA notes & Python implementations |
-| [**Discrete-Maths**](https://github.com/Kabir-Narula/Discrete-Maths) | Discrete math reference cheatsheet |
-| [**WEB222-Vintage**](https://github.com/Kabir-Narula/WEB222-Vintage) | Vintage-styled R&B music capstone |
+<div align="center">
+
+**[Download PDF](https://github.com/Kabir-Narula/Kabir-Narula/raw/main/Kabir_Narula_Resume.pdf)**
+
+</div>
+
+<details>
+<summary><b>Experience & education</b> — click to expand</summary>
+
+<br />
+
+**Education**
+
+| | |
+|---|---|
+| **Seneca Polytechnic** | Honours B.Tech, Software Development |
+| | Toronto · Expected **Aug 2026** |
+
+<br />
+
+**Experience**
+
+| Role | Company | When |
+|------|---------|------|
+| Systems & Data Analyst (WIL) | Seneca INNWIL VYBE Platform | Feb – Apr 2026 |
+| Data & Systems Intern | Project Human City | May – Jul 2025 |
+| Technical Consultant | Three Of Cups | Feb – Apr 2024 |
+
+<br />
+
+**Selected projects**
+
+| Project | Focus |
+|---------|--------|
+| [BetterMind](https://github.com/Kabir-Narula/BetterMind) · [Live](https://mindful-ai-dps.vercel.app/) | PostgreSQL data architecture, API compliance, privacy controls |
+| [Vertex_flow](https://github.com/Kabir-Narula/Vertex_flow) | Multi-tenant transactions, data ingestion, SQL dashboards |
+
+<br />
+
+**Skills**
+
+`Data Analysis` · `SQL (PostgreSQL)` · `Python` · `TypeScript` · `React / Next.js` · `Compliance & Documentation` · `Stakeholder Communication`
+
+</details>
 
 ---
 
 <div align="center">
 
-*Open to co-op / new-grad roles in frontend & full-stack development.*
+*Open to co-op / new-grad roles in frontend, full-stack & data-focused development.*
 
 </div>
