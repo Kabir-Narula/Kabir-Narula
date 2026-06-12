@@ -45,11 +45,11 @@ I build **accessible, responsive web apps** — component-driven UI, REST APIs, 
 
 ### Also on GitHub
 
-| | |
-|:---:|:---|
-| 📚 | [**Data_Structres-Algorithms**](https://github.com/Kabir-Narula/Data_Structres-Algorithms) — DSA notes & Python implementations |
-| 📐 | [**Discrete-Maths**](https://github.com/Kabir-Narula/Discrete-Maths) — discrete math reference cheatsheet |
-| 🎵 | [**WEB222-Vintage**](https://github.com/Kabir-Narula/WEB222-Vintage) — vintage-styled R&B music capstone |
+| Repo | Description |
+|------|-------------|
+| [**Data_Structres-Algorithms**](https://github.com/Kabir-Narula/Data_Structres-Algorithms) | DSA notes & Python implementations |
+| [**Discrete-Maths**](https://github.com/Kabir-Narula/Discrete-Maths) | Discrete math reference cheatsheet |
+| [**WEB222-Vintage**](https://github.com/Kabir-Narula/WEB222-Vintage) | Vintage-styled R&B music capstone |
 
 ---
 
