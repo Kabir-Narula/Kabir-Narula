@@ -16,16 +16,8 @@ Currently in my **4th year** of Honours B.Tech Software Development, focused on 
 
 ---
 
-### Featured projects
 
-| Project | What it does | Links |
-|--------|----------------|-------|
-| [**Vertex_flow**](https://github.com/Kabir-Narula/Vertex_flow) | Spatial version control for 3D teams — GLB upload, browser viewer, spatial review pins | [Repo](https://github.com/Kabir-Narula/Vertex_flow) |
-| [**BetterMind**](https://github.com/Kabir-Narula/BetterMind) | AI mental wellness platform — mood tracking, journaling, CBT, insights | [Live](https://mindful-ai-dps.vercel.app/) · [Repo](https://github.com/Kabir-Narula/BetterMind) |
-| [**Neo_Brutalism**](https://github.com/Kabir-Narula/Neo_Brutalism) | Interactive neo-brutalist portfolio with Builder Mode & 3D backgrounds | [Repo](https://github.com/Kabir-Narula/Neo_Brutalism) |
-| [**Treminy**](https://github.com/Kabir-Narula/Treminy) | Notion-style workspace — realtime cursors, rich text, Stripe billing | [Repo](https://github.com/Kabir-Narula/Treminy) |
 
----
 
 ### Stack
 
