@@ -53,7 +53,7 @@ freelance full-stack work for real clients, including production mobile + web ap
 
 <br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir-Narula&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top languages" />
+
 
 </div>
 
