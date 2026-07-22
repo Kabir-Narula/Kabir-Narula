@@ -49,8 +49,7 @@ freelance full-stack work for real clients, including production mobile + web ap
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kabir-Narula&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Kabir-Narula&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+
 
 <br />
 
