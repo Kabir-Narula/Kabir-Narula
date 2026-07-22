@@ -2,11 +2,12 @@
 
 # Kabir Narula
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Development+%40+Seneca;Frontend+%2B+Full-Stack+Builder;React+%C2%B7+Next.js+%C2%B7+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend-%2B+full-stack+engineer;Distributed+systems+%C2%B7+ML+inference+%C2%B7+data+pipelines;Python+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Shipping+real+products%2C+not+tutorials)](https://git.io/typing-svg)
 
-**Toronto** · Honours B.Tech Software Development · **grad Aug 2026**
+**Toronto** · Honours B.Tech Software Development, Seneca Polytechnic · **graduating Aug 2026**
+Software Engineer Intern @ Seneca **INNWIL Lab (VYBE Platform)** · Freelance full-stack developer
 
-[LinkedIn](https://www.linkedin.com/in/kabir-narula-19b129260/) · [Email](mailto:Kabirnar10@gmail.com) · [**Resume**](https://github.com/Kabir-Narula/Kabir-Narula/raw/main/Kabir_Narula_Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/kabir-narula-19b129260/) · [Portfolio](https://neo-brutalism-neon.vercel.app/) · [Email](mailto:Kabirnar10@gmail.com) · [**Resume**](https://github.com/Kabir-Narula/Kabir-Narula/raw/main/Kabir_Narula_Resume.pdf)
 
 </div>
 
@@ -14,9 +15,25 @@
 
 ### About
 
-I build **accessible, responsive web apps** — component-driven UI, REST APIs, and features that ship with tests and CI.
+I build **backend-heavy systems that survive real traffic** — distributed workers, queues,
+REST APIs, PostgreSQL schemas with real constraints, and ML inference pipelines — and the
+full-stack products around them. Everything I ship runs with CI, tests, and a deploy target.
 
-4th year at Seneca, focused on **React / Next.js** and full-stack projects that actually deploy. Pinned repos below are my best work.
+Currently: software engineer intern at Seneca's INNWIL Lab (VYBE platform). Before that:
+freelance full-stack work for real clients, including production mobile + web apps.
+
+---
+
+### Featured work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**jobhub**](https://github.com/Kabir-Narula/jobhub) | Personal job-search OS: aggregates Toronto tech jobs from **38 sources**, tracks applications end-to-end, and generates **design-locked, 1-page LaTeX résumés** per job + verified recruiter contacts and AI outreach drafts | Next.js 16 · Prisma · Supabase · Tectonic · gpt-5.5 |
+| [**Axom**](https://github.com/Kabir-Narula/Axom) | Exam-prep learning platform: documents → concept **knowledge graph**, adaptive tests, SM-2 spaced repetition, heuristic engine with optional LLM depth | Next.js 16 · React 19 · Prisma · Zod |
+| [**Vertex_flow**](https://github.com/Kabir-Narula/Vertex_flow) | Spatial version control for 3D teams: GLB uploads, in-browser Three.js viewer, review pins on mesh, versioned assets | Turborepo · Fastify/tRPC · Python FastAPI + Blender worker · BullMQ/Redis · R2 |
+| [**BetterMind**](https://github.com/Kabir-Narula/BetterMind) | Mental-wellness platform with **ML inference**: sentiment scoring + pattern detection with confidence scores over a 13-table PostgreSQL schema | Next.js 14 · Prisma · OpenAI · JWT |
+| [**Treminy**](https://github.com/Kabir-Narula/Treminy) | Notion-style collaborative workspace: realtime cursors + co-editing, workspaces, subscription billing | Next.js · Supabase · Drizzle · Stripe · sockets |
+| [**XO-SPACETECH**](https://github.com/Kabir-Narula/XO-SPACETECH) | **Hackathon finalist**: ML-powered room-dimension estimation and object-placement optimization | Next.js · ML |
 
 ---
 
@@ -24,7 +41,7 @@ I build **accessible, responsive web apps** — component-driven UI, REST APIs, 
 
 ### Stack
 
-[![Skills](https://skillicons.dev/icons?i=ts,next,react,tailwind,nodejs,postgres,prisma,threejs,python,git&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,ts,fastapi,next,react,postgres,prisma,redis,docker,linux,git,threejs&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -43,14 +60,8 @@ I build **accessible, responsive web apps** — component-driven UI, REST APIs, 
 
 ---
 
-
-
-
-
----
-
 <div align="center">
 
-*Open to co-op / new-grad roles in frontend, full-stack & data-focused development.*
+*Open to **new-grad software engineering** roles (backend, full-stack, data/ML) in Toronto & remote — graduating Aug 2026.*
 
 </div>
